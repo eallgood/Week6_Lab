@@ -1,0 +1,40 @@
+﻿{
+    font-family: 'Courier New';
+    font-size: 16px;
+    background-color: #33F0C0;
+    color: white;
+}
+
+header {
+    background-color: red;
+    color: white;
+    height: 40px;
+    padding-top: 20px;
+}
+
+nav {
+    background-color: lightcoral;
+    color: lightgreen;
+    height: 40px;
+    padding-top: 10px;
+}
+
+nav div{
+    display: inline-block;
+}
+
+.TableText {
+    color: black;
+    font-style: italic;
+}
+
+.FormElement {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+table {
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+}

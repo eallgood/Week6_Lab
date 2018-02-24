@@ -1,0 +1,9 @@
+C:\Users\ethan\source\repos\Week6_Lab\Week6_Lab\bin\Week6_Lab.dll.config
+C:\Users\ethan\source\repos\Week6_Lab\Week6_Lab\bin\Week6_Lab.dll
+C:\Users\ethan\source\repos\Week6_Lab\Week6_Lab\bin\Week6_Lab.pdb
+C:\Users\ethan\source\repos\Week6_Lab\Week6_Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ethan\source\repos\Week6_Lab\Week6_Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ethan\source\repos\Week6_Lab\Week6_Lab\obj\Debug\Week6_Lab.csprojResolveAssemblyReference.cache
+C:\Users\ethan\source\repos\Week6_Lab\Week6_Lab\obj\Debug\Week6_Lab.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Week6_Lab\Week6_Lab\obj\Debug\Week6_Lab.dll
+C:\Users\ethan\source\repos\Week6_Lab\Week6_Lab\obj\Debug\Week6_Lab.pdb
